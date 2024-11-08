@@ -13,4 +13,3 @@
 </br>
 - <a href="https://github.com/IraM-skh/plastic_windows" target="_blank">Лэндинг "пластиковые окна Ирвис"</a> JS
 </br></br>
-У меня так же есть и другие публичные репозитории.
