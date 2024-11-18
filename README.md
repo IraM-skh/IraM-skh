@@ -1,6 +1,6 @@
 <h2 align="center">Привет, я Ира <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">Frontend разработчик</h3>
-<h3 >На данный момент работаю над своими проектами:</h3>
+<h3 >На данный момент работаю над проектами:</h3>
 - <a href="https://github.com/IraM-skh/-recipes-react" target="_blank">Диетические рецепты</a>  react + ts + ajax
 </br>
 - <a href="https://github.com/IraM-skh/web_dev_trainer" target="_blank">Web-тренажер</a>  JS + sass + ajax
